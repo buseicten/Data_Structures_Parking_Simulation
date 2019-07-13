@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{0AE317F9-A8D9-4058-AA35-02359F02E404}|Default">
+  <MonoDevelop.Ide.ItemProperties.DataStructuresParkingSimulation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataStructuresParkingSimulation" expanded="True">
+            <Node name="DataStructuresParkingSimulation" expanded="True">
+              <Node name="FormParking.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
